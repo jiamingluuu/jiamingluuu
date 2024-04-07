@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a thrid year student majored in Computer Science and Mathematics and University of Toronto at Scarborough Campus</h3>
 
-- 🔭 I’m currently working on [smallDB]((https://github.com/jiamingluuu/smallDB), which is my personal project that is based on the rust programming language.
+- 🔭 I’m currently working on [smallDB](https://github.com/jiamingluuu/smallDB), which is my personal project that is based on the rust programming language.
 - 🌱 I’m currently learning:
   - Mutliple programming languages, Rust and C++ in particular. Trying to bring their modern features, functional, template, smart pointers, into my development.
   - Operating system design. Specializing on concurrency and persistency.
