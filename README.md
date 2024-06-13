@@ -12,18 +12,13 @@
   <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
       <img width="70%" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
   </a>
-  <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/6f8c8cbd-c62f-4c95-8cdf-f7a7813d8c16.svg">
-      <img width="70%" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/6f8c8cbd-c62f-4c95-8cdf-f7a7813d8c16.svg">
+  <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
+      <img width="70%" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
   </a>
-  <a href="https://pixel-profile.vercel.app/api/github-stats?username=jiamingluuu&theme=road_trip&pixelate_avatar=true">
-      <img width="70%" src="https://pixel-profile.vercel.app/api/github-stats?username=jiamingluuu&theme=road_trip&pixelate_avatar=true">
-  </a>
+  <picture decoding="async" loading="lazy">
+  <img width="70%" alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=jiamingluuu&theme=road_trip&pixelate_avatar=true">
+  </picture>
 </div>
-
-<picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=jiamingluuu&theme=road_trip&pixelate_avatar=true">
-</picture>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
