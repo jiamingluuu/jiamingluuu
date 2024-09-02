@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jiaming Lu</h1>
 
-<h3 align="center">A passionate third-year student at the University of Toronto at Scarborough, majoring in Computer Science and Mathematics. My current interest lies in data storage models, distributed systems, cryptography and compiler design.</h3>
+<h3 align="center">A passionate fourth-year student at the University of Toronto at Scarborough, majoring in Computer Science and Mathematics. My current interest lies in data storage models, distributed systems, cryptography and compiler design.</h3>
 
-- 🔭 I’m currently working on [smallDB](https://github.com/jiamingluuu/smallDB). My personal project that is based on the Rust programming language.
+- 🔭 I’m currently working on [smallDB](https://github.com/jiamingluuu/smallDB). My personal project that is based on Bitcask and Rust.
 - 🌱 I’m currently learning:
-  - Mutliple programming languages, Rust and C++ in particular. Trying to bring their modern features, functional programmings, templates, smart pointers, into my development.
-  - Operating system design. Specializing on concurrency and persistency.
+  - Mutliple programming languages, Rust and C++ in particular.
+  - Distributed system design, mainly focused on learning the Raft consensus algorithm and its potential optimizations.
 - 📫 How to reach me: jiaming.lu@mail.toronto.ca
 
 <div align="center">
