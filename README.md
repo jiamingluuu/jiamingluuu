@@ -9,10 +9,10 @@
 - 📫 How to reach me: jiaming.lu@mail.toronto.ca
 
 <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
-    <img align="right" width="50%" height="auto" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
+    <img align="right" width="40%" height="auto" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
 </a>
 <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
-    <img align="left" width="50%" height="auto" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
+    <img align="left" width="40%" height="auto" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
 </a>
 <div align="center">
   <picture decoding="async" loading="lazy">
