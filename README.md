@@ -8,12 +8,20 @@
   - Distributed system design, mainly focused on learning the Raft consensus algorithm and its potential optimizations.
 - 📫 How to reach me: jiaming.lu@mail.toronto.ca
 
-<a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
-    <img align="right" width="40%" height="auto" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
-</a>
-<a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
-    <img align="left" width="40%" height="auto" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
-</a>
+<table border="0">
+ <tr>
+    <td>
+      <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
+      <img align="center" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/9e9a377c-5805-4c76-bc17-2dfba5760382.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
+        <img align="center" src="https://wakatime.com/share/@fde754a7-8bcf-42d3-b277-896db25d2932/2c03694e-7d6a-446a-8683-b5ad2567484e.svg">
+      </a>
+    </td>
+ </tr>
+</table>
 <div align="center">
   <picture decoding="async" loading="lazy">
   <img width="70%" alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=jiamingluuu&theme=road_trip&pixelate_avatar=true">
